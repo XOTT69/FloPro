@@ -1,17 +1,1 @@
-{
-  "name": "FloPro UA - Трекер циклу",
-  "short_name": "FloPro",
-  "description": "Сучасний трекер менструального циклу з прогнозами та симптомами",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#FF69B4",
-  "theme_color": "#FF69B4",
-  "orientation": "portrait-primary",
-  "icons": [
-    {
-      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDE5MiAxOTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxjaXJjbGUgY3g9Ijk2IiBjeT0iOTYiIHI9Ijk2IiBmaWxsPSIjRkY2OUI0Ii8+CjxjaXJjbGUgY3g9IjcwIiBjeT0iNzAiIHI9IjE4IiBmaWxsPSJ3aGl0ZSIvPgo8Y2lyY2xlIGN4PSIxMjIiIGN5PSI3MCIgcj0iMTgiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0xMjAgMTI1QzEyMCAxMzEuMDYgMTE1LjA2IDEzNiAxMDkgMTM2SDgzQzc2Ljk0IDEzNiA3MiAxMzEuMDYgNzIgMTI1VjEwMkMxMjAgMTAyIDEyMCAxMDIgMTIwIDEwMkgxMjBWMTI1WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
-      "sizes": "192x192",
-      "type": "image/svg+xml"
-    }
-  ]
-}
+{"name":"FloPro UA Pro","short_name":"FloPro","description":"🏥 Персональний трекер циклу з AI-прогнозами","start_url":"/","display":"standalone","background_color":"#FF69B4","theme_color":"#FF69B4","icons":[{"src":"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDE5MiAxOTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxjaXJjbGUgY3g9Ijk2IiBjeT0iOTYiIHI9Ijk2IiBmaWxsPSIjRkY2OUI0Ii8+CjxjaXJjbGUgY3g9IjcwIiBjeT0iNzAiIHI9IjE4IiBmaWxsPSJ3aGl0ZSIvPgo8Y2lyY2xlIGN4PSIxMjIiIGN5PSI3MCIgcj0iMTgiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0xMjAgMTI1QzEyMCAxMzEuMDYgMTE1LjA2IDEzNiAxMDkgMTM2SDgzQzc2Ljk0IDEzNiA3MiAxMzEuMDYgNzIgMTI1VjEwMkMxMjAgMTAyIDEyMCAxMDIgMTIwIDEwMkgxMjBWMTI1WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+","sizes":"192x192","type":"image/svg+xml"}]}
